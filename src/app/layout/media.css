@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+  .login-image {
+    display: none;
+  }
+
+  .form__error,
+  .form__input--error {
+    font-size: 12px;
+  }
+}
